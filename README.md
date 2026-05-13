@@ -39,3 +39,7 @@ PyTorch framework was used for running deep learning models and handling AI comp
 Visual Studio Code was used as the development environment for writing and executing the project code.
 6. Google Colab (Optional)
 Google Colab can also be used for running the project online without installing software locally.
+
+#OUTPUT
+
+<img width="1752" height="982" alt="Image" src="https://github.com/user-attachments/assets/686d8a14-649a-4e32-bde3-26b1a0f3d829" />
